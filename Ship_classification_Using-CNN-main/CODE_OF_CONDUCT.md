@@ -38,7 +38,7 @@ This Code of Conduct applies within all community spaces, including GitHub issue
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers responsible for enforcement:
 
-- **R. Darwin Hareesh**: [darwinhareesh@gmail.com](mailto:darwinhareesh@gmail.com)  
+- **CH . Ganesh Kumar**: [chavaganesh.gk@gmail.com](mailto:chavaganesh.gk@gmail.com)  
 - **Arnab De** (Project Guide): [ade.ece1990@gmail.com](mailto:ade.ece1990@gmail.com)
 
 All complaints will be reviewed and investigated promptly and fairly. Maintainers are obligated to maintain confidentiality with regard to the reporter of an incident.
