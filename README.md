@@ -14,8 +14,6 @@ Institution: Department of ACSE, Vignan's Foundation for Science, Technology and
 
 This project addresses the challenge of ship classification in maritime imagery by tackling class imbalance and leveraging deep learning. We balanced a dataset of 8,932 images (Cargo, Military, Carrier, Cruise, Tankers) to 15,000 images (3,000 per class) using data augmentation. Four CNN models—Custom CNN, VGG16, ResNet50, and MobileNet—were trained and evaluated, with VGG16 achieving the highest accuracy of 93.03%. A Streamlit web app enables real-time classification, making the framework practical for maritime surveillance.
 
-🔗 **Read the Paper**: [IEEE Xplore Link](https://ieeexplore.ieee.org/document/2429) (replace with actual link once published)
-
 ## ✨ Features
 
 - **Data Augmentation**: Balanced dataset to 15,000 images using flips, brightness changes, zooms, and rotations.
