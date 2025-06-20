@@ -150,8 +150,6 @@ The Streamlit app allows real-time ship classification:
 - **Input**: Upload a ship image (224x224 pixels, RGB).
 - **Output**: Confidence scores from all four models (e.g., a cruise ship image yielded Custom CNN: 32.75% Cruise, MobileNet: 99.27% Carrier).
 
-![Streamlit App Screenshot](/streamlit_screenshot.png)  
-*(Replace with an actual screenshot of your app.)*
 
 ## 📝 Contributing
 
@@ -171,7 +169,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📧 Contact
 
 For questions or collaboration inquiries, reach out to:
-- **R. Darwin Hareesh**: [darwinhareesh@gmail.com](mailto:darwinhareesh@gmail.com)
+- **CH. Ganesh Kumar**: [chavaganesh.gk@gmail.com](mailto:chavaganesh.gk@gmail.com)
 - **Arnab De** (Project Guide): [ade.ece1990@gmail.com](mailto:ade.ece1990@gmail.com)
 
 ---
